@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 master
+=======
+master
+>>>>>>> features1
 # 校招薪水 #
 
 ----------
